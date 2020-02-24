@@ -26,6 +26,12 @@ switch ($operation) {
 break;
     case "minus";
         echo $a - $b;
+break;
+    case "divided";
+        echo $a / $b;
+break;
+    case "multiply";
+        echo $a * $b;
 }
 
 
