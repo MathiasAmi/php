@@ -1,8 +1,8 @@
 # php
 PHP assignments. Introduction
 
-h2
-kommandoer
+
+## kommandoer
 
 cd C:\Users\mathi\VisualStudioCode\php\Phpassignment
 docker-compose up -d
